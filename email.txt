@@ -1,0 +1,5 @@
+abc@gmail.com
+wrongemail@
+test@domain.in
+hello@site
+abc @gmail.com
