@@ -45,8 +45,5 @@ def menu():
 
         elif choice == "3":
             print("exiting....")
-        
-
-
 
 menu()
